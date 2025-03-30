@@ -7,11 +7,10 @@ We will explore various sources to learn AWS
 
 
 ## Chapter-02   
-[here](chapter-02/README.md)
+
+[Chapter-02](chapter-02/README.md)
 
 
-# My Project
-is really really cool. My Project has a subdir named myLib, see below.
+## Chapter-03   
 
-## myLib docs
-see documentation [here](myLib/README.md)
+[Chapter-03](chapter-03/README.md)
