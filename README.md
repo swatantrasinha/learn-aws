@@ -1,10 +1,13 @@
 # learn-aws
 
 We will explore various sources to learn AWS   
-Lets start [here] : (https://www.youtube.com/playlist?list=PLRAV69dS1uWSj3ltu0ym1LwWg4509PZ0N)   
+
+[AWS](https://www.youtube.com/playlist?list=PLRAV69dS1uWSj3ltu0ym1LwWg4509PZ0N/ "aws-basics-playlist")
 
 
-## Chapter-02 [here] (chapter-02/README.md)
+
+## Chapter-02   
+[here](chapter-02/README.md)
 
 
 # My Project
