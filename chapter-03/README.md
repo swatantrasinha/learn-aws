@@ -1,7 +1,7 @@
 ## Chapter 03: Learn IAM (Identity and Access Management) in AWS
 
 
-Link to main page : [back-to-main] (../README.md)
+Link to main page : [back-to-main](../README.md)
 
 
 
