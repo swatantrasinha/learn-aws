@@ -30,7 +30,19 @@ Go to previous chapter : [Chapter-02](../chapter-02/README.md)
 - username/password or access keys
 
 ### Creating Groups
-<img width="991" alt="image" src="https://github.com/user-attachments/assets/1e09a62f-5b72-4353-acfd-2269d2cfdc41" />
+<img width="991" alt="image" src="https://github.com/user-attachments/assets/1e09a62f-5b72-4353-acfd-2269d2cfdc41" />   
+
+### IAM Roles   
+- Roles are assumed by users/applications/services
+- gain the permission of " **role** " only
+
+### IAM Policies   
+- Policies are JSON documents
+- Implicitly denied
+- Identity based and resource based
+- AWS support 6 types of policies
+
+
 
 
 
