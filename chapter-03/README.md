@@ -39,8 +39,32 @@ Go to previous chapter : [Chapter-02](../chapter-02/README.md)
 ### IAM Policies   
 - Policies are JSON documents
 - Implicitly denied
-- Identity based and resource based
-- AWS support 6 types of policies
+- Identity based(this is common) and resource based(only few services support this)
+- AWS support 6 types of policies- see below screenshot      
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/c70c2f6d-787c-4e25-bb45-9f4b5223a981" />
+
+### Account Access
+There are two ways how we can give permission/access to an account   
+- AWS Console
+- AWS API
+<img width="1147" alt="image" src="https://github.com/user-attachments/assets/217786d7-52cb-4afd-9457-2ddd51818e90" />
+
+### AWS Authentication   
+Core policy is :   
+<img width="796" alt="image" src="https://github.com/user-attachments/assets/a827e389-be1e-45bf-b675-bba569df45f0" />   
+
+### SCP (Service Control Policies)  
+As we saw in **IAM Policies**  above, it limits the permission but do not grant the permission.
+<img width="1154" alt="image" src="https://github.com/user-attachments/assets/ab29fb89-1516-479f-8402-e8f46c4f5a5d" />
+
+
+
+
+
+
+
+
+
 
 
 
