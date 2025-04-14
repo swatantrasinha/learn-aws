@@ -51,8 +51,46 @@ We will landup here: [User Group](https://us-east-1.console.aws.amazon.com/iam/h
 - In User groups Section -> check on **admins** to add this user(youtube) to admins group   
 - In Set Permission Boundary -> dont do anything for now
 - Click on Next
+<img width="1415" alt="image" src="https://github.com/user-attachments/assets/f8d7b424-d25b-4304-a786-405aa92a4958" />
 
-12. 
+
+12.  This will take to Review and Create Page
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/1a56998f-8c75-4010-9a84-99eb94b6853f" />
+It has **Tags** Section -> skip it for now
+
+13. Click On **Create User** Button
+<img width="1501" alt="image" src="https://github.com/user-attachments/assets/2145c421-712f-437e-ab3f-e040c7b85742" />
+
+so new user is created   
+
+15. At To navigation -> Click on Users
+<img width="1488" alt="image" src="https://github.com/user-attachments/assets/f717a8d7-e935-43e1-b986-cdb5d814f367" />
+A doilog box will appear click on Continue   
+
+
+16. When we click on the user(youtube), we will see many tabs -> click on Security Credentials   
+<img width="1480" alt="image" src="https://github.com/user-attachments/assets/31ae04d3-8c61-4748-9443-e7121628c526" />
+We can see options like:   
+- Manage Console Access   
+- Create Access Key   
+
+17. Click on Access Key      
+<img width="1188" alt="image" src="https://github.com/user-attachments/assets/87a99013-f3db-4a57-b6c0-6dcddca950d1" />   
+- In use case -> select radio button for **CLI**   
+- click on checkbox for **confirmation**   
+- click on Next   
+
+18. It will to to **Set description tag**
+Inside textbox for  **Description tag value**, give some text say **this is for the code access**
+<img width="1192" alt="image" src="https://github.com/user-attachments/assets/82f9a374-75bc-4769-8e55-89d2ec940da2" />
+
+19. Click on Create Access Key. It will take to next page where it will show 
+**access key** and **secret key**
+<img width="1192" alt="image" src="https://github.com/user-attachments/assets/cc6579d1-2d02-4ed3-952a-a4d8b008bbb3" />
+We need to save this or down as CSV
+
+20. Click on **Done**
+
 
 
  
