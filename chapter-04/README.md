@@ -91,6 +91,16 @@ We need to save this or down as CSV
 
 20. Click on **Done**
 
+21. Activate IAM Access   
+Go to Billing and Cost Management [Link](https://us-east-1.console.aws.amazon.com/billing/home#/account)
+- Scroll to section **IAM user and role access to Billing information **
+- Click on Edit
+- Click on checkbox **Activate IAM Access**
+- Click on Update
+<img width="761" alt="image" src="https://github.com/user-attachments/assets/fadf332b-9cbb-4fdc-8739-dae256df8fb7" />
+
+
+
 
 
  
