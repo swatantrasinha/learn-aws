@@ -70,8 +70,17 @@ For this, we will go to aws console and then IAM
 <ins>Note:</ins> the other user youtube was created in Chapter04 - Point 13   
 
 5. Creating Access Key:
-Click on the user **developer**   
+a. Click on the user **developer**   
 <img width="1664" alt="image" src="https://github.com/user-attachments/assets/d96f2817-c414-4816-8889-fcf81154a3cc" />
+
+b. Click on above highlighted link for **Create Access key**
+
+c. new page will appear **Access key best practices & alternatives**
+- in usecase -> select for CLI   
+- and also check the confirmation checkbox
+- click on Next
+<img width="1379" alt="image" src="https://github.com/user-attachments/assets/9a97d352-82f2-47a9-937d-8668e2887e84" />
+
 
 
 
