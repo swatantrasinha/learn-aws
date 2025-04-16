@@ -1,9 +1,9 @@
 Link to main page : [back-to-main](../README.md)
 
-Go to previous chapter : [Chapter-03](../chapter-03/README.md)
+Go to previous chapter : [Chapter-04](../chapter-04/README.md)
 
-Go to next chapter : [Chapter-05](../chapter-05/README.md)
+Go to next chapter : [Chapter-06](../chapter-06/README.md)
 
 
-## Chapter 04: 
+## Chapter 05: 
 
