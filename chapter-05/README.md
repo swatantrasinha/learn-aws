@@ -35,7 +35,48 @@ It will show :
 <img width="549" alt="image" src="https://github.com/user-attachments/assets/d7267cf2-8899-48f5-a044-1ffa8e534c9a" />
    
 this means its installed   
-Now we will configure   
+
+Now we will configure  
+in terminal type   
+
+> aws configure
+
+it will ask for **AWS Access Key Id**    
+ 
+For this, we will go to aws console and then IAM   
+ 
+[IAM](https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/home)   
+
+1. Inside LeftNav -> Access Management ->  Users -> Create User   
+- in username type: **developer**
+- dont click on checkbox **Provide user access to the AWS Management Console - optional**
+- click Next
+<img width="1555" alt="image" src="https://github.com/user-attachments/assets/1fb4adc2-4230-44f2-8657-2e16d850dee3" />
+
+2. In next page **Set Permission**
+- Inside **Permissions Options** section, the first radio button **Add user to group** would be selected (let it be no need to change)
+- In **User groups**, click on checkbox for admins
+(note: ideally this should not be good step as user is for developer so there should be a developer group but for now let it be)
+- Inside **Set permissions boundary** section,no action needed
+- Click on **Next**   
+
+<img width="1567" alt="image" src="https://github.com/user-attachments/assets/b1c41fcf-a8d6-4f2a-9ccf-a2470d12846c" />
+
+3. In **Review and create** page no action needed, just click on **Create User** button
+<img width="1566" alt="image" src="https://github.com/user-attachments/assets/109ca7cd-e328-43b5-b256-a4801fe603fb" />
+
+4. After submit, we can see user is created
+<img width="1790" alt="image" src="https://github.com/user-attachments/assets/5e28c232-cee9-4a3d-856e-1f29e41bb5f7" />
+
+
+
+
+
+
+
+
+  
+
 
 
 
