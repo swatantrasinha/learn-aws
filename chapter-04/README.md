@@ -63,7 +63,7 @@ It has **Tags** Section -> skip it for now
 
 so new user is created   
 
-15. At To navigation -> Click on Users
+15. At Top navigation -> Click on Users
 <img width="1488" alt="image" src="https://github.com/user-attachments/assets/f717a8d7-e935-43e1-b986-cdb5d814f367" />
 A doilog box will appear click on Continue   
 
