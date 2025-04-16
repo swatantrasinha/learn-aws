@@ -7,4 +7,7 @@ Go to next chapter : [Chapter-06](../chapter-06/README.md)
 
 ## Chapter 05: Configure AWS CLI Keys   
 
+[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)   
+
+
 
