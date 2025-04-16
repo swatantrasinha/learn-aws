@@ -67,6 +67,12 @@ For this, we will go to aws console and then IAM
 
 4. After submit, we can see user is created
 <img width="1790" alt="image" src="https://github.com/user-attachments/assets/5e28c232-cee9-4a3d-856e-1f29e41bb5f7" />
+<ins>Note:</ins> the other user youtube was created in Chapter04 - Point 13   
+
+5. Creating Access Key:
+Click on the user **developer**   
+<img width="1664" alt="image" src="https://github.com/user-attachments/assets/d96f2817-c414-4816-8889-fcf81154a3cc" />
+
 
 
 
