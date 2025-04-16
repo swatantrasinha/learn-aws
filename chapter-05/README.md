@@ -69,7 +69,8 @@ For this, we will go to aws console and then IAM
 <img width="1790" alt="image" src="https://github.com/user-attachments/assets/5e28c232-cee9-4a3d-856e-1f29e41bb5f7" />
 <ins>Note:</ins> the other user youtube was created in Chapter04 - Point 13   
 
-5. Creating Access Key:
+5. Creating Access Key:   
+
 a. Click on the user **developer**   
 <img width="1664" alt="image" src="https://github.com/user-attachments/assets/d96f2817-c414-4816-8889-fcf81154a3cc" />
 
@@ -78,10 +79,18 @@ b. Click on above highlighted link for **Create Access key**
 c. new page will appear **Access key best practices & alternatives**
 - in usecase -> select for CLI   
 - and also check the confirmation checkbox
-- click on Next
+- click on Next (ignore warning- Alternative Recommended)
 <img width="1379" alt="image" src="https://github.com/user-attachments/assets/9a97d352-82f2-47a9-937d-8668e2887e84" />
 
+d. it would take to next page **Set description tag - optional**
+ <img width="1340" alt="image" src="https://github.com/user-attachments/assets/2498058e-d0e8-4fad-bbf2-b6f67f82423f" />
+this is optional and we can directly click on **Click Access Key** button
 
+e. next page it will show access key and secret
+<img width="1353" alt="image" src="https://github.com/user-attachments/assets/97f25f10-f1c6-4de7-84ea-2583880dd7a4" />
+save it
+
+f. click on Done
 
 
 
