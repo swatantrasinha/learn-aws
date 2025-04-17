@@ -122,8 +122,18 @@ it will ask for:
 - Default output format - json   
 
  thats it **Done**   
-<img width="505" alt="image" src="https://github.com/user-attachments/assets/e70ff6f4-67e5-4ae9-b953-f471f4b6d07a" />   
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/e70ff6f4-67e5-4ae9-b953-f471f4b6d07a" />  
 
+---
+### Check for "Configure AWS"   
+Now if we type in terminal:   
+
+> aws s3 ls
+
+it will give list of s3 buckets   
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/8815a938-5e2a-4d65-ac42-55a991f1db52" />   
+
+<ins>Note: </ins> although its not showing anything because there is no S3 bucket yet but the command is **valid**
 
 
 
