@@ -89,8 +89,16 @@ A doilog box will appear click on Continue
    
 <img width="1480" alt="image" src="https://github.com/user-attachments/assets/31ae04d3-8c61-4748-9443-e7121628c526" />
 We can see options like:   
-- Manage Console Access   
-- Create Access Key   
+
+##### Manage Console access   
+if we click on this a dialog will apper which has options like:
+- disable console access
+- reset password
+- revoke active console sessions
+we dont need to to anything here (just click on close button in dialog box)
+  
+     
+##### Create Access Key: we will see this in details below   
 
 ### 16. Click on Access Key      
 <img width="1188" alt="image" src="https://github.com/user-attachments/assets/87a99013-f3db-4a57-b6c0-6dcddca950d1" />   
