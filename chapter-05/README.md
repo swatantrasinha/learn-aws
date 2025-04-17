@@ -153,7 +153,7 @@ below command can expose the credentials
 ### 3. <ins>Please Note: </ins> **Anybody working with EC2 machine should never go to an EC2 instance and configure credentials in EC2 machines**.
 Doing this **even accidently could be a nightmare**. This can **really impact the bill**
 
-### 4.To deactivate access keys go to IAM:
+### 4. To deactivate access keys go to IAM:
 - Access management -> users
 - click on the user
 - go to tab -> **Security credentials**
