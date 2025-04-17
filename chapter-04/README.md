@@ -98,7 +98,8 @@ if we click on this a dialog will apper which has options like:
 we dont need to to anything here (just click on close button in dialog box)
   
      
-##### Create Access Key: we will see this in details below   
+##### Create Access Key   
+This is for programmatic access. We will see this in details below   
 
 ### 16. Click on Access Key      
 <img width="1188" alt="image" src="https://github.com/user-attachments/assets/87a99013-f3db-4a57-b6c0-6dcddca950d1" />   
@@ -114,9 +115,19 @@ Inside textbox for  **Description tag value**, give some text say **this is for 
 ### 18. Click on Create Access Key. It will take to next page where it will show    
 **access key** and **secret key**
 <img width="1192" alt="image" src="https://github.com/user-attachments/assets/cc6579d1-2d02-4ed3-952a-a4d8b008bbb3" />
-We need to save this or download as CSV
+As we won't be able to see this again so we need to save this or download as CSV
 
-### 19. Click on **Done**
+Click on **Done**
+
+### 19. Delete a user   
+<ins>Note:</ins> This step is not needed here (just read for learning purpose)
+If we want to delete a user 
+- Left Nav -> Access management -> users
+- click on checkbox for the user to be deleted
+- delete button will be activated
+- click to delete
+- dialog box will open asking for conformation
+- give the username in textbox and click on **Delete User** button
 
 ### 20. Activate IAM Access   
    
@@ -127,4 +138,6 @@ Go to Billing and Cost Management [Link](https://us-east-1.console.aws.amazon.co
 - Click on checkbox **Activate IAM Access**
 - Click on Update
 <img width="761" alt="image" src="https://github.com/user-attachments/assets/fadf332b-9cbb-4fdc-8739-dae256df8fb7" />
+
+
 
