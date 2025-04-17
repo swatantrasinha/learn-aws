@@ -133,8 +133,12 @@ It will delete the user.
 <ins>Note:</ins> This will only delete user the group will still be there
 
 ### 20. Activate IAM Access   
-   
-Go to Billing and Cost Management [Link](https://us-east-1.console.aws.amazon.com/billing/home#/account)   
+If we are creating admim, then admin don't have billing access   
+To give billing access, follow 
+- If we go into Account   
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/92c48968-258f-4c3b-8688-cc95be8c6392" />
+
+the url will be for [Billing and Cost Management](https://us-east-1.console.aws.amazon.com/billing/home#/account)   
 
 - Scroll to section **IAM user and role access to Billing information **
 - Click on Edit
