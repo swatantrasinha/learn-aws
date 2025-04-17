@@ -61,13 +61,22 @@ We will landup here: [User Group](https://us-east-1.console.aws.amazon.com/iam/h
 ### 12.  This will take to Review and Create Page   
 
 <img width="1428" alt="image" src="https://github.com/user-attachments/assets/1a56998f-8c75-4010-9a84-99eb94b6853f" />   
-On scroll we will find the section ->  **Tags**  - optional -> skip it for now
+On scroll we will find the section ->  **Tags**  - optional 
+Its optional so if we can we can give 
+- key: user
+- value: admin
+else we skip it for now
 
 ### 13. Click On **Create User** Button   
 
 <img width="1501" alt="image" src="https://github.com/user-attachments/assets/2145c421-712f-437e-ab3f-e040c7b85742" />
 
 so the new user is created   
+It will show Console SignIn Details:
+- Console sign-in url
+- user name
+- console password
+We can save it for future use (can also download as .csv file) 
 
 ### 14. At the top navigation -> Click on Users    
 
