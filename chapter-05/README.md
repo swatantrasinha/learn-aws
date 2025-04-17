@@ -163,6 +163,8 @@ Doing this **even accidently could be a nightmare**. This can **really impact th
 <img width="1757" alt="image" src="https://github.com/user-attachments/assets/ce5c2fc0-9b01-471e-9588-3d50436402de" />    
 
 Here, we can deactivate and then using same dropdown we can delete the access key
+Once deleted, we cannot get results for    
+> aws s3 ls
 
 
 
