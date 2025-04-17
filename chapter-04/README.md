@@ -138,9 +138,10 @@ To give billing access, follow
 - If we go into Account   
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/92c48968-258f-4c3b-8688-cc95be8c6392" />
 
-the url will be for [Billing and Cost Management](https://us-east-1.console.aws.amazon.com/billing/home#/account)   
+the url will be for [Billing and Cost Management](https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/account)   
 
 - Scroll to section **IAM user and role access to Billing information **
+- if its for admin user it won't be activated
 - Click on Edit
 - Click on checkbox **Activate IAM Access**
 - Click on Update
