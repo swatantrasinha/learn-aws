@@ -5,7 +5,8 @@ Go to previous chapter : [Chapter-04](../chapter-04/README.md)
 Go to next chapter : [Chapter-06](../chapter-06/README.md)
 
 
-## Chapter 05: Configure AWS CLI Keys   
+## Chapter 05: Configure AWS CLI Keys  
+AWS CLI is command-line interface which we can use to do a lot of things programatically or via command-line in the AWS account. 
  
 Before AWS CLI installation , in terminal if we type   
    
