@@ -20,7 +20,7 @@ Go to next chapter : [Chapter-04](../chapter-04/README.md)
 
 ### <ins>Root User</ins>
 - the email with which SignUp AWS
-- has full permission and cannot be reduced the permission(so better avoid using root user)
+- has full permission and cannot reduce the permission(so better avoid using root user)
 - should be avoided
 - enabled MFA
 
