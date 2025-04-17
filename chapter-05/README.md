@@ -139,8 +139,25 @@ it will give list of s3 buckets
 
 ### Precautions: What Not To Do
 
-- be careful for credentials
-- 
+**Be very very careful for credentials**
+
+in mac or linux, if we go to terminal then there is a hidden folder with name **.aws** 
+below command can expose the credentials   
+<img width="495" alt="image" src="https://github.com/user-attachments/assets/53820182-5ab3-4e29-8cb0-01e6b8126642" />
+
+to deactivate access keys go to IAM:
+- Access management -> users
+- click on the user
+- go to tab -> **Security credentials**
+- scroll to section  **Access keys**
+- inside the dropdown **Actions**, there is option **deactivate**
+
+<img width="1757" alt="image" src="https://github.com/user-attachments/assets/ce5c2fc0-9b01-471e-9588-3d50436402de" />    
+
+Here, we can deactivate and then using same dropdown we can delete the access key
+
+
+
 
 
 
