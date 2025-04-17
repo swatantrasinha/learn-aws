@@ -27,7 +27,14 @@ Steps to install AWS CLI:
 - Command Line - Current user
 
 I followed GUI installer(downloaded .pkg file and next-next-next)   
-once installation is done, in terminal type   
+
+<ins>Note:</ins> For my windows laptop,
+On [this page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html), I expanded
+the **Windows** and clicked on below highlighted link to download windows installer package
+and installed it  
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/2f4e46a5-9add-4c43-a0cf-4b8a820dd875" />
+
+once installation is done(either in mac or windows), in terminal type   
 
 > aws   
 
