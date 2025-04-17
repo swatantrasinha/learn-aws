@@ -137,15 +137,23 @@ it will give list of s3 buckets
 
 ---
 
-### Precautions: What Not To Do
+## Precautions: What Not To Do
 
 **Be very very careful for credentials**
 
-in mac or linux, if we go to terminal then there is a hidden folder with name **.aws** 
+### 1. Say we are developers then untill we really know that we need this access key we should not be storing it.
+There are other options to access EC2 instance and other features(which we may see later)
+
+### 2. In mac or linux, if we go to terminal (there will be similar in windows- need to check)   
+
+then there is a hidden folder with name **.aws** 
 below command can expose the credentials   
 <img width="495" alt="image" src="https://github.com/user-attachments/assets/53820182-5ab3-4e29-8cb0-01e6b8126642" />
 
-to deactivate access keys go to IAM:
+### 3. <ins>Please Note: </ins> **Anybody working with EC2 machine should never go to an EC2 instance and configure credentials in EC2 machines**.
+Doing this **even accidently could be a nightmare**. This can **really impact the bill**
+
+### 4.To deactivate access keys go to IAM:
 - Access management -> users
 - click on the user
 - go to tab -> **Security credentials**
