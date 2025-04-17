@@ -133,8 +133,14 @@ Now if we type in terminal:
 it will give list of s3 buckets   
 <img width="280" alt="image" src="https://github.com/user-attachments/assets/8815a938-5e2a-4d65-ac42-55a991f1db52" />   
 
-<ins>Note: </ins> although its not showing anything because there is no S3 bucket yet but the command is **valid**
+<ins>Note: </ins> although its not showing anything because there is no S3 bucket yet but the command is **valid**   
 
+---
+
+### Precautions: What Not To Do
+
+- be careful for credentials
+- 
 
 
 
