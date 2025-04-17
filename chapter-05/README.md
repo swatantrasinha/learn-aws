@@ -88,7 +88,7 @@ For this, we will go to aws console and then IAM
 
 #### b. Click on above highlighted link for **Create Access key**
 
-#### c. new page will appear **Access key best practices & alternatives**
+#### c. new page will appear -->  **Access key best practices & alternatives**
 - in usecase -> select for CLI   
 - and also check the confirmation checkbox
 - click on Next (ignore warning- Alternative Recommended)
@@ -100,7 +100,7 @@ this is optional and we can directly click on **Click Access Key** button
 
 #### e. next page it will show access key and secret
 <img width="1353" alt="image" src="https://github.com/user-attachments/assets/97f25f10-f1c6-4de7-84ea-2583880dd7a4" />
-save it
+save this access key & secret (or download .csv file)
 
 #### f. click on Done
 
