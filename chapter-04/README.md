@@ -120,14 +120,17 @@ As we won't be able to see this again so we need to save this or download as CSV
 Click on **Done**
 
 ### 19. Delete a user   
-<ins>Note:</ins> This step is not needed here (just read for learning purpose)
-If we want to delete a user 
+<ins>Note:</ins> This step is not needed here (just read for learning purpose)   
+
+If we want to delete a user:    
 - Left Nav -> Access management -> users
 - click on checkbox for the user to be deleted
-- delete button will be activated
-- click to delete
+- **Delete** button will be activated
+- click to this
 - dialog box will open asking for conformation
 - give the username in textbox and click on **Delete User** button
+It will delete the user. 
+<ins>Note:</ins> This will only delete user the group will still be there
 
 ### 20. Activate IAM Access   
    
