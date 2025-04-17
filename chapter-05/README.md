@@ -104,6 +104,28 @@ save this access key & secret (or download .csv file)
 
 #### f. click on Done
 
+--- 
+
+### Configure AWS with access key
+
+in terminal give command,   
+> aws configure
+
+it will ask for:
+- AWS Access Key ID - paste (created above)
+
+- AWS Secret Access Key - paste (created above)
+
+- Default region name : ap-south-1 (we can see in topNav if we click Global -> nearest is Mumbai)
+<img width="278" alt="image" src="https://github.com/user-attachments/assets/72227181-30f6-4c90-a35c-51127cfb396c" />
+
+- Default output format - json   
+
+ thats it **Done**   
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/e70ff6f4-67e5-4ae9-b953-f471f4b6d07a" />   
+
+
+
 
 
 
