@@ -15,12 +15,12 @@ It will give - command not found
 
 Steps to install AWS CLI:   
 
-1. click on  this link : [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)   
-2. In the LeftNav -> getting started => Install/Update   
-3. go to section **AWS CLI install and update instructions**   
-4. Expand **macOS**   
-5. Scroll to **Install or update the AWS CLI**
-6. There are 3 options:   
+#### 1. click on  this link : [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)   
+#### 2. In the LeftNav -> getting started => Install/Update   
+#### 3. go to section **AWS CLI install and update instructions**   
+#### 4. Expand **macOS**   
+#### 5. Scroll to **Install or update the AWS CLI**
+#### 6. There are 3 options:   
 - GUI Installer
 - Command Line Installer - All users
 - Command Line - Current user
@@ -44,6 +44,8 @@ in terminal type
 it will ask for **AWS Access Key Id**    
  
 For this, we will go to aws console and then IAM   
+
+---
  
 [IAM](https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/home)      
 
@@ -74,35 +76,25 @@ For this, we will go to aws console and then IAM
 ### 5. Creating Access Key:   
 
 #### a. Click on the user **developer**   
-<img width="1664" alt="image" src="https://github.com/user-attachments/assets/d96f2817-c414-4816-8889-fcf81154a3cc" />
+<img width="1664" alt="image" src="https://github.com/user-attachments/assets/d96f2817-c414-4816-8889-fcf81154a3cc" />    
 
-b. Click on above highlighted link for **Create Access key**
+#### b. Click on above highlighted link for **Create Access key**
 
-c. new page will appear **Access key best practices & alternatives**
+#### c. new page will appear **Access key best practices & alternatives**
 - in usecase -> select for CLI   
 - and also check the confirmation checkbox
 - click on Next (ignore warning- Alternative Recommended)
-<img width="1379" alt="image" src="https://github.com/user-attachments/assets/9a97d352-82f2-47a9-937d-8668e2887e84" />
+<img width="1379" alt="image" src="https://github.com/user-attachments/assets/9a97d352-82f2-47a9-937d-8668e2887e84" />    
 
-d. it would take to next page **Set description tag - optional**
- <img width="1340" alt="image" src="https://github.com/user-attachments/assets/2498058e-d0e8-4fad-bbf2-b6f67f82423f" />
+#### d. it would take to next page **Set description tag - optional**
+<img width="1340" alt="image" src="https://github.com/user-attachments/assets/2498058e-d0e8-4fad-bbf2-b6f67f82423f" />    
 this is optional and we can directly click on **Click Access Key** button
 
-e. next page it will show access key and secret
+#### e. next page it will show access key and secret
 <img width="1353" alt="image" src="https://github.com/user-attachments/assets/97f25f10-f1c6-4de7-84ea-2583880dd7a4" />
 save it
 
-f. click on Done
-
-
-
-
-
-
-
-
-  
-
+#### f. click on Done
 
 
 
