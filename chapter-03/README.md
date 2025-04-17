@@ -37,7 +37,7 @@ Go to next chapter : [Chapter-04](../chapter-04/README.md)
 
 ### <ins>IAM Roles</ins>   
 - Roles are assumed by users/applications/services
-- gain the permission of " **role** " only
+- gain the permission of "**role**" only
 
 ### <ins>IAM Policies</ins>   
 - Policies are JSON documents
