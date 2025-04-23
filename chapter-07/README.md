@@ -1,4 +1,4 @@
-## Chapter 06: Introduction to Amazon EC2(Elastic Compute Cloud)         
+## Chapter 07: Hands on Practice with EC2 machines   
 
 
 Link to main page : 
@@ -7,11 +7,11 @@ Link to main page :
 
 
 Go to previous chapter : 
-[Chapter-05](../chapter-05/README.md)
+[Chapter-06](../chapter-06/README.md)
 
 
 Go to next chapter : 
-[Chapter-07](../chapter-07/README.md)
+[Chapter-08](../chapter-08/README.md)
 
 
 ## Introduction to Amazon Elastic Compute Cloud EC2   
