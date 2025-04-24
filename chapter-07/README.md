@@ -27,9 +27,19 @@ We can see in nevtNav the different option on EC2 page
 
 - in **Reserved Instances** we can get maximum discount
 
-- images -> **AMI** : AMazon Machine Image   
+- images -> **AMI** : Amazon Machine Image   
 
 - **Elactic Block Store** : determines what kind of storage will be used 
+
+Lets go back to  EC2 Dashboard  (in leftNav) and launch instance   
+1. Click on dropdown next to Launch Instance Button   
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/810ea633-d193-47d7-a16c-84ff6ec684af" />
+
+As We don't have any template to select, so directly click on **Launch Instance**    
+
+2.   
+
+
 
 
 
