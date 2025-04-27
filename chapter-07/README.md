@@ -54,10 +54,14 @@ As We don't have any template to select, so directly click on **Launch Instance*
 - Instance Type -> turn on switch button for **all generations**. Select the below instance type:   
   <img width="521" alt="image" src="https://github.com/user-attachments/assets/999ea43f-62c7-4313-b7e9-1a84b28ebebb" />
 
-- key-pair login -->  we discussed that we can generate key-pair and we need to store those and change permission
-<img width="302" alt="image" src="https://github.com/user-attachments/assets/150a93a0-ba96-4cc8-8dbf-dbf374e26048" />   
-Here we can enter name, keep type as RSA and download as .pem and then we need to change permission to login
-Note: for now, we will select radio button **Proceed without key pair** (in video its mentioned but not able to find it- see above screenshot)
+- key-pair login -->  We earlier discussed that we can generate key-pair and we need to store those and change permission   
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/150a93a0-ba96-4cc8-8dbf-dbf374e26048" />     
+Here we can enter name, keep type as RSA and download as .pem and then we need to change permission to login   
+
+Note: for now, we will select radio button **Proceed without key pair**    
+> [!CAUTION]    
+> <code style="color:red"> (The above note - **Proceed without key pair** is mentioned in the video but not able to find it while doing practical- See the above screenshot) </code>      
+
 
 - Network Settings --> below are the defaults, need not to change ( let it be) :  
 <img width="539" alt="image" src="https://github.com/user-attachments/assets/a144f8c9-4ad0-4c5f-bc1d-26391db6b7d3" />
