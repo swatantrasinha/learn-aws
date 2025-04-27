@@ -65,6 +65,13 @@ Note: for now, we will select radio button **Proceed without key pair** (in vide
 - Configure Storage --> we will go with defaults:   
 <img width="345" alt="image" src="https://github.com/user-attachments/assets/51c9ff0a-678c-474a-8094-981ccd28053b" />
 
+- Advanced details --> if we scroll then at last we can see meta-data section and this has user-data   
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/bbdb3adb-43c6-4922-8872-0610a28fac2f" />
+(No need to fill anything here just for info)   
+
+- Click on **Launch Instance**
+
+
 
  
 
