@@ -72,7 +72,7 @@ Note: for now, we will select radio button **Proceed without key pair**
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/bbdb3adb-43c6-4922-8872-0610a28fac2f" />
 (No need to fill anything here just for info)   
 
-- Click on **Launch Instance**
+3. Click on **Launch Instance**
 
 - Once we click , we will see error
 <img width="242" alt="image" src="https://github.com/user-attachments/assets/648525c4-534e-47d8-be8c-26095e59ce0e" />   
@@ -84,23 +84,6 @@ Lecture video screenshot below:
 
 > [!CAUTION]    
 > <code style="color:red"> The above option - **Proceed without key pair** was shown by lecturer
-but I am not able to find it while doing practical </code> 
+but I am not able to find it while doing practical. So not able to launch instance </code>    
 
 
-
-
-
- 
-
-
-
-
-
-
-   
-
-
-   
-
-
- 
