@@ -46,7 +46,8 @@ We will landup here: [User Group](https://us-east-1.console.aws.amazon.com/iam/h
 - give some name say **youtube**   
 - click on checkbox **Provide user access to the AWS Management Console**   
 - select radio button ****I want to create an IAM user**   
-- In console password - select custom password and give some valid password
+- In console password - select custom password and give some valid password   
+- We can uncheck on **Users must create a new password at next sign-in - Recommended**
 - Click on Next   
 <img width="1386" alt="image" src="https://github.com/user-attachments/assets/d9886bbb-8dd0-4213-b01c-32efde7b8659" />
 
