@@ -157,7 +157,34 @@ It will show the instace created with the name given and the instance will have 
 To get more information about instance we can click on the instance id and it will show info like public IP   
 <img width="1313" alt="image" src="https://github.com/user-attachments/assets/b49e2611-607b-4566-b13d-7a757e074b68" />   
 
-if we copy the ip and paste in new tab - we should be able to see the HTML
+if we copy the ip and paste in new tab - we should be able to see the HTML   
+<ins>Note:</ins> For me when i copy-paste the IP its showing  - This site can’t be reached   
+
+**Security Groups:**   
+Network firewall rules that control inbound and outbound traffic for instances.   
+To access this in the pahe where we saw public IP(on click of instance id), scroll down and click on 
+tab **Security**   
+
+Click on link for Security Group   
+<img width="827" alt="image" src="https://github.com/user-attachments/assets/89aa277b-c849-43aa-8f7a-8c6ec0c8665c" />   
+In Inbound rules, Port Range 22 and 80 would be there
+If its not there liek in my case   
+Click on Edit Inbound rules -> Add rule   
+- type: HTTP
+- protocol: TCP
+- port range: 80
+- source : Anywhere-IPv4 and 0.0.0.0/0 will come by itself let it be
+  
+  Click on **Save Rules**
+
+Now if we go back to the public IP of instance and copy paste in new tab 
+for me its showing - "**It works!**"
+
+
+
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/6266c531-eaa2-4323-a8ae-e430526941f5" />
+
+
 
 
 
