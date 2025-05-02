@@ -178,11 +178,17 @@ Click on Edit Inbound rules -> Add rule
   Click on **Save Rules**
 
 Now if we go back to the public IP of instance and copy paste in new tab 
-for me its showing - "**It works!**"
+for me its showing - "**It works!**"    
+> [!CAUTION]  
+However, I was expecting to see - **Welcome to Apache Web Server on Amazon Linux**
+which I mentioned in scripts earlier
 
 
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/6266c531-eaa2-4323-a8ae-e430526941f5" />   
 
-<img width="415" alt="image" src="https://github.com/user-attachments/assets/6266c531-eaa2-4323-a8ae-e430526941f5" />
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/2d2a5bd8-b13a-4305-ba33-535f73b70567" />   
+
+
 
 
 
