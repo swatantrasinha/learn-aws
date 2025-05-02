@@ -188,6 +188,20 @@ which I mentioned in scripts earlier
 
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/2d2a5bd8-b13a-4305-ba33-535f73b70567" />   
 
+----
+How to SSH into EC2 instance ?   
+SSH allows you to control/access a remote machine   
+Go to EC2 dashboard --> select instance --> click on **Connect**   
+ 
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/b6fbff4c-c8c7-4f9b-bd54-69acff53bb0d" />
+
+In the Next Page with title **Connect to instance**, in the tabs --> **EC2 Instance Connect** would be selected (let it be)
+we will also see **SSH client** (highlighted below) soon  
+Note : there would be some username **ec2-user** - let it be  
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/1e2f5e9f-3807-43e0-849a-7fbd1f04b2ad" />   
+
+
+
 
 
 
