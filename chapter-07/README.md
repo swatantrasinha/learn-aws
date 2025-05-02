@@ -99,7 +99,7 @@ For this problem lets follow some other course for EC2 instance creation:
 <img width="1070" alt="image" src="https://github.com/user-attachments/assets/ff5db860-0509-43ed-8608-533cd0ee20fd" />   
 
 
-- In IAM, search for EC2 -> click on **Launch Instance**   
+In IAM, search for EC2 -> click on **Launch Instance**   
 - number of instance --> 1   
 - give name --> **mywebserver**   
 - Amazon Machine Image --> Amazon Linux is selected (let it be)       
@@ -111,6 +111,42 @@ Click on **Create New Key Pair**
 <img width="493" alt="image" src="https://github.com/user-attachments/assets/12742ad5-5761-404c-9bac-ed4df5277b11" />
    
 Once we click on **Create Key Pair** button in the modal it will download pem file, save it in computer   
+
+- For Sections - **Network Setting** and **Configure Storage** -> whatever is populated let it be
+<img width="873" alt="image" src="https://github.com/user-attachments/assets/c86439c3-e84c-4c1d-9b0c-b67ab33d0430" />
+<ins>Note</ins> **Ensure Auto-assign public IP** is **enabled** 
+
+## Advanced details
+This is optional. Here we are creating a server, if we want that some task will also be there on server when its created then we can use **User Data** in this section.   
+
+<ins>User Data - </ins>  For adding scripts to be executed when the instance starts   
+
+So, in this section of Advanced Details, scroll down to --> **User data - optional**      
+and write below in the large textarea   
+
+```script
+#!/bin/bash
+sudo yum update -y
+
+# Install Apache web server(httpd)
+sudo yum install -y httpd
+
+# Start Apache Service
+sudo systemctl start httpd
+
+# Enable Apache to start on boot
+sudo systemctl enable httpd
+
+# Sample HTML to verify server is runnin
+echo "<html><h1>Welcome to Apache Web Server on Amazon Linux</h1></html>">
+/var/www/html/index.html
+
+```
+
+- Click on **Launch Instance** button
+
+
+
 
 
 
