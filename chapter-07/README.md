@@ -143,7 +143,28 @@ echo "<html><h1>Welcome to Apache Web Server on Amazon Linux</h1></html>">
 
 ```
 
-- Click on **Launch Instance** button
+- Click on **Launch Instance** button   
+
+<img width="1778" alt="image" src="https://github.com/user-attachments/assets/7613d279-14b7-4ecb-a88c-8c656e6f8259" />    
+
+If we go to EC2 --> we can see the instance running as 1   
+<img width="1233" alt="image" src="https://github.com/user-attachments/assets/b9a145a8-420e-4ef7-93b5-c3609dd93a89" />   
+
+Click on this   
+It will show the instace created with the name given and the instance will have an **Instance ID** as well   
+<img width="1663" alt="image" src="https://github.com/user-attachments/assets/53288967-20c5-4608-a062-28cfbe4999e7" />   
+
+To get more information about instance we can click on the instance id and it will show info like public IP   
+<img width="1313" alt="image" src="https://github.com/user-attachments/assets/b49e2611-607b-4566-b13d-7a757e074b68" />   
+
+if we copy the ip and paste in new tab - we should be able to see the HTML
+
+
+
+
+
+
+  
 
 
 
