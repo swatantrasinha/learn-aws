@@ -85,6 +85,38 @@ Lecture video screenshot below:
 
 > [!CAUTION]    
 > <code style="color:red"> The above option - **Proceed without key pair** was shown by lecturer
-but I am not able to find it while doing practical. So not able to launch instance </code>    
+but I am not able to find it while doing practical. So not able to launch instance </code>
+
+---
+
+For this problem lets follow some other course for EC2 instance creation:   
+[AWS in ONE VIDEO](https://www.youtube.com/watch?v=N4sJj-SxX00&t=2368s) --> forward to **1:20:00** and follow:      
+<img width="970" alt="image" src="https://github.com/user-attachments/assets/7724c0d8-02e7-4866-a2b6-1de8a5d535fa" />   
+
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/b2058101-1cea-41c8-8db3-7b38c9693bda" />
+
+
+<img width="1070" alt="image" src="https://github.com/user-attachments/assets/ff5db860-0509-43ed-8608-533cd0ee20fd" />   
+
+
+- In IAM, search for EC2 -> click on **Launch Instance**   
+- number of instance --> 1   
+- give name --> **mywebserver**   
+- Amazon Machine Image --> Amazon Linux is selected (let it be)       
+- Architecture --> 64-bit(x86) would be selected- let it be   
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/4c629bc5-291b-4a54-bc3b-debd35de1c84" />
+
+- Next is key-pair, since VM is in cloud and not physically available to us so we need this key-pair to access it.   
+Click on **Create New Key Pair**   
+<img width="493" alt="image" src="https://github.com/user-attachments/assets/12742ad5-5761-404c-9bac-ed4df5277b11" />
+   
+Once we click on **Create Key Pair** button in the modal it will download pem file, save it in computer   
+
+
+
+
+
+
+
 
 
