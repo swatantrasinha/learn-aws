@@ -225,14 +225,37 @@ To get further details give command
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/e050cf69-b557-4840-9715-7cb193b6af54" />   
 
 ---
-## SSH Client   
+# SSH Client   
 
 We will now explore other option to connect via SSH Client   
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/d090cca5-fc84-4bf3-b9e8-2ebef99966f7" />   
 
+We will try in both machines- windows and mac    
+
+### mac:   
+Inside EC2 Dashboard -> Checkin the checkbox for the running instance --> Click on Connect Button     
+<img width="1768" alt="image" src="https://github.com/user-attachments/assets/21991893-8b1b-4014-b652-61a72e935a65" />
+ 
+It will open like below:   
+<img width="1722" alt="image" src="https://github.com/user-attachments/assets/20be176f-81b8-4563-9484-4c20e61895ea" />
+ 
+We have already saved the pem file for ssh connection   
+
+Open Terminl -> navigate to pem file and give command highligted above
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/8016abac-4c41-4609-9f6b-3e35e89ea54c" />   
+
+> [!CAUTION]
+> This should have have connected me to instance but for mac its timed out error. See screenshot below:   
+
+<img width="1014" alt="image" src="https://github.com/user-attachments/assets/937a2baa-bb0d-4b0c-a3ed-cf4a720a97ab" />
+
 ### windows:   
 - download putty
-- we need to converty pem file downloaded
+- we need to converty pem file downloaded  
+
+
+
+
 
    
 
