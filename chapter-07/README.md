@@ -138,8 +138,7 @@ sudo systemctl start httpd
 sudo systemctl enable httpd
 
 # Sample HTML to verify server is runnin
-echo "<html><h1>Welcome to Apache Web Server on Amazon Linux</h1></html>">
-/var/www/html/index.html
+echo "<html><h1>Welcome to Apache Web Server on Amazon Linux</h1></html>">/var/www/html/index.html   
 
 ```
 
@@ -199,28 +198,6 @@ In the Next Page with title **Connect to instance**, in the tabs --> **EC2 Insta
 we will also see **SSH client** (highlighted below) soon  
 Note : there would be some username **ec2-user** - let it be  
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/1e2f5e9f-3807-43e0-849a-7fbd1f04b2ad" />   
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
 
 
 
