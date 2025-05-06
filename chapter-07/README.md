@@ -270,11 +270,12 @@ Open Terminl -> navigate to pem file and give command highligted above
 It will give option to browser - private key file for authentication   
 
 - browser the **.ppk** file generated using **PuTTYgen**   
-- Click on **Open**   
+- Click on **Open**
+- It will ask for **login as** --> type **ec2-user**'
+-  This will connect to EC2 instance
 
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/8e670aa9-71da-4bea-a423-25255db5f6ca" />   
 
-It will ask for **login as** --> type **ec2-user**'   
 
 
 
