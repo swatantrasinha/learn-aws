@@ -250,8 +250,36 @@ Open Terminl -> navigate to pem file and give command highligted above
 <img width="1014" alt="image" src="https://github.com/user-attachments/assets/937a2baa-bb0d-4b0c-a3ed-cf4a720a97ab" />
 
 ### windows:   
-- download putty using link [PuTTY download](https://www.putty.org/) 
-- we need to convert pem file downloaded  
+- download putty using link [PuTTY download](https://www.putty.org/)    
+- we have downloaded pem file earlier while creating instance - **webserver-key.pem**   
+  This needs to be converted to **.ppk** format   
+- As PuTTY is installed so open **PuTTYgen**  in windows machine and click on Load button   
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/8cb5d1b6-286a-4594-8cad-e7915fdaa966" />   
+
+- browser and select the .pem file and then click on **Save Private File** button   
+- save it with name say **myWebserver_putty-key** and the window for **PuTTYgen**   
+-  now open **PuTTY** (not PuTTYgen)   
+-  we need IP address so we will get it from here - **EC2 Instance Connect** Tab which is before **SSH client** tab   
+  <img width="806" alt="image" src="https://github.com/user-attachments/assets/fd377e5b-34ae-4bdf-9e7f-50af99738965" />   
+
+- In the host name we will paste the IP address fetched above and port let it be **22**   
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/cea32412-5889-43f6-9435-505fb9c0a1a0" />   
+
+- in left nav , click on SSH -> Auth -> Credentials   
+  <img width="338" alt="image" src="https://github.com/user-attachments/assets/1e089044-2a67-47a1-bb11-28b45164f8b7" />   
+It will give option to browser - private key file for authentication   
+
+- browser the **.ppk** file generated using **PuTTYgen**   
+- Click on **Open**   
+
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/8e670aa9-71da-4bea-a423-25255db5f6ca" />   
+
+It will ask for **login as** --> type **ec2-user**'   
+
+
+
+ 
+
 
 
 
