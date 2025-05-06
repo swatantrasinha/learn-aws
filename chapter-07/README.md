@@ -218,14 +218,21 @@ and then *escape button** and then  **:wq**
 the changes will be reflected in browser:   
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/ed0d3b41-8582-4912-8e4c-a65437bb3ef1" />   
 
-To get details give command   
+To get further details give command   
 
 > cat /etc/os-release   
 
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/e050cf69-b557-4840-9715-7cb193b6af54" />   
 
-
 ---
+## SSH Client   
+
+We will now explore other option to connect via SSH Client   
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/d090cca5-fc84-4bf3-b9e8-2ebef99966f7" />   
+
+### windows:   
+- download putty
+- we need to converty pem file downloaded
 
    
 
