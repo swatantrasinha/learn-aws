@@ -250,8 +250,8 @@ Open Terminl -> navigate to pem file and give command highligted above
 <img width="1014" alt="image" src="https://github.com/user-attachments/assets/937a2baa-bb0d-4b0c-a3ed-cf4a720a97ab" />
 
 ### windows:   
-- download putty
-- we need to converty pem file downloaded  
+- download putty using link [PuTTY download](https://www.putty.org/) 
+- we need to convert pem file downloaded  
 
 
 
