@@ -216,7 +216,14 @@ Press **i** in keyboard to edit and then change text  "Welcome to Apache Web Ser
 and then *escape button** and then  **:wq**   
 <img width="349" alt="image" src="https://github.com/user-attachments/assets/96904a27-b062-457d-ba1b-ec09096685d1" />   
 the changes will be reflected in browser:   
-<img width="578" alt="image" src="https://github.com/user-attachments/assets/ed0d3b41-8582-4912-8e4c-a65437bb3ef1" />    
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/ed0d3b41-8582-4912-8e4c-a65437bb3ef1" />   
+
+To get details give command   
+
+> cat /etc/os-release   
+
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/e050cf69-b557-4840-9715-7cb193b6af54" />   
+
 
 ---
 
