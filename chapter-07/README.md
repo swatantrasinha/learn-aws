@@ -276,6 +276,11 @@ It will give option to browser - private key file for authentication
 
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/8e670aa9-71da-4bea-a423-25255db5f6ca" />   
 
+- Now similar to  **EC2 Instance Connect** we can navigate to html file edit and save - changes will be reflected   
+  <img width="421" alt="image" src="https://github.com/user-attachments/assets/8b1509bf-60ce-4bb3-a7fd-905c3a3b0d9b" />   
+
+
+
 
 
 
