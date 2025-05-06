@@ -277,7 +277,24 @@ It will give option to browser - private key file for authentication
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/8e670aa9-71da-4bea-a423-25255db5f6ca" />   
 
 - Now similar to  **EC2 Instance Connect** we can navigate to html file edit and save - changes will be reflected   
-  <img width="421" alt="image" src="https://github.com/user-attachments/assets/8b1509bf-60ce-4bb3-a7fd-905c3a3b0d9b" />   
+  <img width="421" alt="image" src="https://github.com/user-attachments/assets/8b1509bf-60ce-4bb3-a7fd-905c3a3b0d9b" />
+
+  ---
+
+  # Terminate Instance
+  1. Go to EC2 Dashboard--> Select the running instance --> in the **Instance State** dropdown --> Select the option **Terminate Instance**
+    <img width="951" alt="image" src="https://github.com/user-attachments/assets/22bd121a-c825-4298-85be-6df27b91b99f" />
+
+  2. A popup will open --> Click on **Terminate Button**   
+  <img width="415" alt="image" src="https://github.com/user-attachments/assets/94b4b30a-4fa5-4a7d-88d3-88969db0cdaf" />
+
+  3. This will terminate the instance and cost will not be added further for the instance
+  <img width="871" alt="image" src="https://github.com/user-attachments/assets/54524cf2-e4d5-419d-9fc6-2994aae350a5" />   
+
+
+
+
+
 
 
 
