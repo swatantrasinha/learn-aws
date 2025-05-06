@@ -197,7 +197,32 @@ In the Next Page with title **Connect to instance**, in the tabs --> **EC2 Insta
 we will also see **SSH client** (highlighted below) later   
 
 Note : there would be some username **ec2-user** - let it be  
-<img width="902" alt="image" src="https://github.com/user-attachments/assets/1e2f5e9f-3807-43e0-849a-7fbd1f04b2ad" />   
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/1e2f5e9f-3807-43e0-849a-7fbd1f04b2ad" />    
+
+- Click on Connect
+We will see:   
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/9e9b9c3a-27e3-4d79-9c40-d488e8ac4e80" />   
+
+While writing html scripts, we did **echo** html on **/var/www/html/index.html**   
+So, we will go to html location:   
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/204f961e-9c6d-4934-bbd8-1969f934a1be" />   
+and give command:   
+> sudo vi index.html   
+change "Welcome to Apache Web Server on Amazon Linux" to "Welcome to New Apache Web Server on Amazon Linux"
+
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/c17a4c6a-49d1-4396-a38d-140ceec5f6b6" />   
+
+and then *escape button** and then  **:wq**   
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/96904a27-b062-457d-ba1b-ec09096685d1" />   
+the changes will be reflected in browser:   
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/ed0d3b41-8582-4912-8e4c-a65437bb3ef1" />   
+   
+
+
+
+
+
+
 
 
 
