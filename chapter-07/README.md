@@ -282,14 +282,18 @@ It will give option to browser - private key file for authentication
   ---
 
   # Terminate Instance
-  1. Go to EC2 Dashboard--> Select the running instance --> in the **Instance State** dropdown --> Select the option **Terminate Instance**
-    <img width="951" alt="image" src="https://github.com/user-attachments/assets/22bd121a-c825-4298-85be-6df27b91b99f" />
+1. Go to EC2 Dashboard--> Select the running instance --> in the **Instance State** dropdown --> Select the option **Terminate Instance**   
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/22bd121a-c825-4298-85be-6df27b91b99f" />
 
-  2. A popup will open --> Click on **Terminate Button**   
-  <img width="415" alt="image" src="https://github.com/user-attachments/assets/94b4b30a-4fa5-4a7d-88d3-88969db0cdaf" />
+2. A popup will open --> Click on **Terminate Button**   
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/94b4b30a-4fa5-4a7d-88d3-88969db0cdaf" />
 
-  3. This will terminate the instance and cost will not be added further for the instance
-  <img width="871" alt="image" src="https://github.com/user-attachments/assets/54524cf2-e4d5-419d-9fc6-2994aae350a5" />   
+3. This will terminate the instance and cost will not be added further for the instance   
+<img width="871" alt="image" src="https://github.com/user-attachments/assets/54524cf2-e4d5-419d-9fc6-2994aae350a5" />
+
+4. After sometime, it will show as terminated:   
+<img width="1761" alt="image" src="https://github.com/user-attachments/assets/5ef812d1-58fb-42f7-84fe-530a35958d23" />
+
 
 
 
