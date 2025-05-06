@@ -167,8 +167,8 @@ tab **Security**
 Click on link for Security Group   
 <img width="827" alt="image" src="https://github.com/user-attachments/assets/89aa277b-c849-43aa-8f7a-8c6ec0c8665c" />   
 In Inbound rules, Port Range 22 and 80 would be there
-If its not there liek in my case   
-Click on Edit Inbound rules -> Add rule   
+If its not there (like in my case) then click on Edit Inbound rules -> Add rule   
+  
 - type: HTTP
 - protocol: TCP
 - port range: 80
@@ -176,11 +176,10 @@ Click on Edit Inbound rules -> Add rule
   
   Click on **Save Rules**
 
-Now if we go back to the public IP of instance and copy paste in new tab 
-for me its showing - "**It works!**"    
-> [!CAUTION]  
-However, I was expecting to see - **Welcome to Apache Web Server on Amazon Linux**
-which I mentioned in scripts earlier
+Now if we go back to the public IP of instance and copy paste in new tab it will show   
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/15b2e2d5-a90a-4f4e-9bf4-e8100d91ad5c" />
+
+<ins>Note: </ins> In the address bar, we may need to add **http://** before the ip address   
 
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/6266c531-eaa2-4323-a8ae-e430526941f5" />   
