@@ -179,8 +179,8 @@ If its not there (like in my case) then click on Edit Inbound rules -> Add rule
 Now if we go back to the public IP of instance and copy paste in new tab it will show   
 <img width="572" alt="image" src="https://github.com/user-attachments/assets/15b2e2d5-a90a-4f4e-9bf4-e8100d91ad5c" />
 
-<ins>Note: </ins> In the address bar, we may need to add **http://** before the ip address   
-
+<ins>Note:</ins> In address bar, before the ip address there may be **https://**, so we may need to change it to  **http://**
+   
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/6266c531-eaa2-4323-a8ae-e430526941f5" />   
 
