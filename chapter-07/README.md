@@ -237,12 +237,18 @@ Inside EC2 Dashboard -> Checkin the checkbox for the running instance --> Click 
 <img width="1768" alt="image" src="https://github.com/user-attachments/assets/21991893-8b1b-4014-b652-61a72e935a65" />
  
 It will open like below:   
-<img width="1722" alt="image" src="https://github.com/user-attachments/assets/20be176f-81b8-4563-9484-4c20e61895ea" />
+
+
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/e419e767-7209-4a24-8817-1536a458bd94" />
  
 We have already saved the pem file for ssh connection   
 
-Open Terminl -> navigate to pem file and give command highligted above
-<img width="692" alt="image" src="https://github.com/user-attachments/assets/8016abac-4c41-4609-9f6b-3e35e89ea54c" />   
+Open Terminl -> navigate to pem file and give **chmod command** command to change permission (highligted in red)
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/8016abac-4c41-4609-9f6b-3e35e89ea54c" />  
+
+
+
+and after this give the command in example (highlighted in green) 
 
 > [!CAUTION]
 > This should have have connected me to instance but for mac its timed out error. See screenshot below:   
