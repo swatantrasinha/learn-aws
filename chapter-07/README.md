@@ -161,7 +161,7 @@ if we copy the ip and paste in new tab - we should be able to see the HTML
 
 **Security Groups:**   
 Network firewall rules that control inbound and outbound traffic for instances.   
-To access this in the pahe where we saw public IP(on click of instance id), scroll down and click on 
+To access this in the page where we saw public IP(on click of instance id), scroll down and click on 
 tab **Security**   
 
 Click on link for Security Group   
