@@ -34,8 +34,32 @@ Note:
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/a5435d2c-6d11-462c-9548-5f81f9501871" />
 
 7. Scalaable(Volume can be resizeable)
-- No data loss will occur during resizing
+- No data loss will occur during resizing   
 - No need to restart EC2 instance during the process
+
+
+---
+<ins>Practical</ins>   
+In EC2 dashboard --> Left Nav -> Elastic Block Store --> Volumes
+It will show no volumes   
+
+Lets create an instance first   
+Case1.   
+We will create as we used to do in previous chapter - lets give instance name (mywebserver-29May2025) and other select by default.   
+In EC2 dashboard we can see this instance.   
+Now go to LeftNav -> Elastic Block Store -> Volume    
+We can see a volume   
+<img width="1615" alt="image" src="https://github.com/user-attachments/assets/f49a3080-5196-4aaa-87b1-2bd3b3c0a560" />   
+Note: Please ensure region is same for instance and EBS   
+
+**While creating the EC2 instance, as we have selected all bydefault so if we terminate/delete the EC2 instance this volume in EBS will also gets deleted.**   
+
+
+
+
+
+
+
 
 
 
