@@ -301,6 +301,25 @@ It will give option to browser - private key file for authentication
 <img width="1761" alt="image" src="https://github.com/user-attachments/assets/5ef812d1-58fb-42f7-84fe-530a35958d23" />
 
 
+ # EC2 Instance Type   
+ [Doc Link](https://aws.amazon.com/ec2/instance-types/)   
+ 
+<img width="1003" alt="image" src="https://github.com/user-attachments/assets/2a53ffa5-5fa0-49d3-bcc8-9912683aa0cb" />  
+
+<img width="1002" alt="image" src="https://github.com/user-attachments/assets/ca4d6351-153e-4c7b-bf85-3d35ae49426b" />
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
 
 
 
