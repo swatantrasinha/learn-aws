@@ -1,4 +1,6 @@
 ## Chapter 08: AWS EBS Service
+<details>
+  <summary>EBS Overview</summary>
 
 EBS stands for **Elastic Block Store**. It is a cloud based storage service that provides durable, high-performance block storage for use with Amazon EC2 instances.   
 It works like virtual hard-drive and allows store & data access data even when EC2 instance are stopped or terminated.   
@@ -16,8 +18,11 @@ While creating EC2 instance, we saw section **Configure Storage** ,
 this 8 GB general purpose is of form EBS   
 If we click on Advance, it will show **EBS Volumne**   
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/40d339d2-19d0-4456-b52d-6c119c8d2fec" />   
+</details>
 
-Note: 
+<details>
+  <summary>Important Notes: </summary>
+
 1. We can attach multiple EBS for an EC2 instance.   
 2. EBS provides persistent, fasts-storage that ensures your data is saved even if the EC2 instance is stopped or restarted, making it ideal for database workloads.   
 <ins>usecase:</ins> We are hosting a MySQl or PostgresSQL database and need reliable high performance storage to handle frequent readwrite operations.   
@@ -37,11 +42,13 @@ Note:
 - No data loss will occur during resizing   
 - No need to restart EC2 instance during the process
 
+</details>
 
 ---
 <ins>Practical</ins>   
 
-## 1. Create EBS while creating EC2 instance
+<details>
+  <summary>1. Create EBS while creating EC2 instance </summary>
 Here we will see EBS behaviour when EC2 instance is deleted
 
 In EC2 dashboard --> Left Nav -> Elastic Block Store --> Volumes
@@ -69,9 +76,12 @@ Now go to LeftNav -> Elastic Block Store -> Volume
 We can see a volume there    
 However now even if we delete/terminate EC2 instance , this **volume will not get deleted.**      
 We will delete/terminate it manually.   
+</details>
 
 ---
-## 2. Create and Arrach EBS to EC2 instance   
+<details>
+  <summary> 2. Create and Attach EBS to EC2 instance  </summary>
+</details>
 
 
 
