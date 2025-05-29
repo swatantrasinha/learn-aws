@@ -75,12 +75,16 @@ In EC2 Dashboard , we can see the instance running. If we see the details in Sto
 Now go to LeftNav -> Elastic Block Store -> Volume  
 We can see a volume there    
 However now even if we delete/terminate EC2 instance , this **volume will not get deleted.**      
-We will delete/terminate it manually.   
+We will delete/terminate it manually.     
+<img width="1668" alt="image" src="https://github.com/user-attachments/assets/53a6733c-a275-467a-9d0e-ead3996e6867" />
+
+Note: Since EC2 instance attached(the EC2 with which this volume created) is already deleted so detach option is not available.   
 </details>
 
 ---
 <details>
   <summary> 2. Create and Attach EBS to EC2 instance  </summary>
+  
 </details>
 
 
