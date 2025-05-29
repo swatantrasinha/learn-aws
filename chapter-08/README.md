@@ -40,11 +40,15 @@ Note:
 
 ---
 <ins>Practical</ins>   
+
+## 1. Create EBS while creating EC2 instance
+Here we will see EBS behaviour when EC2 instance is deleted
+
 In EC2 dashboard --> Left Nav -> Elastic Block Store --> Volumes
 It will show no volumes   
 
 Lets create an instance first   
-Case1:      
+Case A:      
 We will create as we used to do in previous chapter - lets give instance name (mywebserver-29May2025) and other select by default.   
 In EC2 dashboard we can see this instance.   
 Now go to LeftNav -> Elastic Block Store -> Volume    
@@ -54,7 +58,7 @@ Note: Please ensure region is same for instance and EBS
 
 **While creating the EC2 instance, as we have selected all bydefault so if we terminate/delete the EC2 instance this volume in EBS will also gets deleted.**   
 
-Case2:   
+Case B:   
 We will create one more EC2 instance but we will keep eceyrthing default other than **Configure Storage**    
 <img width="823" alt="image" src="https://github.com/user-attachments/assets/758f8452-7ee6-4d33-a2ae-5cf654d4b5b3" />
 Here will select : Delete on termination --> No   
@@ -64,7 +68,13 @@ In EC2 Dashboard , we can see the instance running. If we see the details in Sto
 Now go to LeftNav -> Elastic Block Store -> Volume  
 We can see a volume there    
 However now even if we delete/terminate EC2 instance , this **volume will not get deleted.**      
-We will delete/terminate it manually.
+We will delete/terminate it manually.   
+
+---
+## 2. Create and Arrach EBS to EC2 instance   
+
+
+
 
 
 
