@@ -27,7 +27,7 @@ If we click on Advance, it will show **EBS Volumne**
 2. EBS provides persistent, fasts-storage that ensures your data is saved even if the EC2 instance is stopped or restarted, making it ideal for database workloads.   
 <ins>usecase:</ins> We are hosting a MySQl or PostgresSQL database and need reliable high performance storage to handle frequent readwrite operations.   
 
-3. Region and AZ specific
+3. Region and AZ specific - Lets say Region Mumbai has 3 AZs - A,B and C. If we create EBS on AZ 'A', and create EC2 instance on AZ 'B' then the EC2 instance can't use the EBS.
 
 4. Build-in Redundancy
 
