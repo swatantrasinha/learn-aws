@@ -84,6 +84,9 @@ Note: Since EC2 instance attached(the EC2 with which this volume created) is alr
 ---
 <details>
   <summary> 2. Create and Attach EBS to EC2 instance  </summary>
+
+  Here we will create EBS and attach with EC2 instance.   
+  
   
 </details>
 
