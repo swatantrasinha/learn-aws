@@ -3,7 +3,7 @@
   <summary>EBS Overview</summary>
 
 EBS stands for **Elastic Block Store**. It is a cloud based storage service that provides durable, high-performance block storage for use with Amazon EC2 instances.   
-It works like virtual hard-drive and allows store & data access data even when EC2 instance are stopped or terminated.   
+It works like virtual hard-drive and allows to store & access data even when EC2 instance are stopped or terminated.   
 
 Here we will see:      
 - How to add storage in EC2 instance 
