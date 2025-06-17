@@ -66,7 +66,7 @@ Note: Please ensure region is same for instance and EBS
 **While creating the EC2 instance, as we have selected all bydefault so if we terminate/delete the EC2 instance this volume in EBS will also gets deleted.**   
 
 Case B:   
-We will create one more EC2 instance but we will keep eceyrthing default other than **Configure Storage**    
+We will create one more EC2 instance but we will keep everything default other than **Configure Storage**    
 <img width="823" alt="image" src="https://github.com/user-attachments/assets/758f8452-7ee6-4d33-a2ae-5cf654d4b5b3" />
 Here will select : Delete on termination --> No   
 In EC2 Dashboard , we can see the instance running. If we see the details in Storage section -> horizontal scroll -> we will see **Delete on termination** is **No**   
