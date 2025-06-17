@@ -68,13 +68,16 @@ Note: Please ensure region is same for instance and EBS
 Case B:   
 We will create one more EC2 instance but we will keep everything default other than **Configure Storage**    
 <img width="823" alt="image" src="https://github.com/user-attachments/assets/758f8452-7ee6-4d33-a2ae-5cf654d4b5b3" />
-Here will select : Delete on termination --> No   
-In EC2 Dashboard , we can see the instance running. If we see the details in Storage section -> horizontal scroll -> we will see **Delete on termination** is **No**   
+
+  Here will select : Delete on termination --> No   
+
+In EC2 Dashboard , we can see the instance running.   
+If we see the details in Storage section -> horizontal scroll -> we will see **Delete on termination** is **No**   
 <img width="1521" alt="image" src="https://github.com/user-attachments/assets/8beaf345-9179-4cdb-8e93-a608292c506f" />
 
 Now go to LeftNav -> Elastic Block Store -> Volume  
 We can see a volume there    
-However now even if we delete/terminate EC2 instance , this **volume will not get deleted.**      
+However, now even if we delete/terminate EC2 instance , this **volume will not get deleted.**      
 We will delete/terminate it manually.     
 <img width="1668" alt="image" src="https://github.com/user-attachments/assets/53a6733c-a275-467a-9d0e-ead3996e6867" />
 
