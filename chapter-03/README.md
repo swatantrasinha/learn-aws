@@ -24,7 +24,7 @@ Go to next chapter : [Chapter-04](../chapter-04/README.md)
 - should be avoided
 - enabled MFA
 
-### <ins>Creare New User</ins>   
+### <ins>Create New User</ins>   
 - from root user we can create **new user**
 - by default no permission
 - can create around 5000+ accounts
