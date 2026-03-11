@@ -2,7 +2,9 @@
 
 We will explore various sources to learn AWS   
 
-[AWS](https://www.youtube.com/playlist?list=PLRAV69dS1uWSj3ltu0ym1LwWg4509PZ0N/"aws-basics-playlist")
+[AWS](https://www.youtube.com/playlist?list=PLRAV69dS1uWSj3ltu0ym1LwWg4509PZ0N)
+
+
 
 [AWS](https://www.youtube.com/watch?v=N4sJj-SxX00&list=PPSV&t=7403s)
 
