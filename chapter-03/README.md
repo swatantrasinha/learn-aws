@@ -7,6 +7,9 @@ Go to next chapter : [Chapter-04](../chapter-04/README.md)
 
 ## Chapter 03: Learn IAM (Identity and Access Management) in AWS   
 
+No body should have access from the **Root Account** . The **Root Account** is just to create the AWS account and then its rarely touched(that too when something goes seriously wrong).
+
+
 ## Identity - what is allowed by them   
 
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/01c7f098-f15e-434d-b63e-21e27765ae5e" />
