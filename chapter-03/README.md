@@ -22,9 +22,36 @@ No body should have access from the **Root Account** . The **Root Account** is j
 - With assumed roles, we can talk to other services   
 
 <img width="1139" height="258" alt="image" src="https://github.com/user-attachments/assets/dc0a4b66-4c07-4d90-ba97-e3c3a5dbe3c8" />   
+<details>
+  <summary>Policy vs Permission in AWS</summary>
+  <p>
+  
+Permission = What action is allowed or denied   
+It defines what you can do on a resource   
+Example actions: 
+- s3:PutObject
+- ec2:StartInstances
+- dynamodb:Query
 
+✅ Think of permissions as individual rules like:   
+- Allow “read from S3”
+- Deny “delete EC2 instances”
 
+---
 
+Policy = A document (JSON) that defines permissions
+
+A policy is a container or set of permissions written in JSON format
+Attached to: Users/Roles/Groups/Resources (like S3 bucket policies)   
+
+✅ Think of a policy as: A package 📦  that contains multiple permissions   
+
+<img width="655" height="247" alt="image" src="https://github.com/user-attachments/assets/9431515f-b1c2-4859-aa93-a38461e5b5cf" />   
+
+  </p>
+</details>
+
+<hr/>
 
 ### <ins>Root User</ins>
 - the email with which SignUp AWS
