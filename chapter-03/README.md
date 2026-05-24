@@ -16,10 +16,15 @@ No body should have access from the **Root Account** . The **Root Account** is j
 
 ## Group, Role and Policy   
 - Group is a way to organize user
-- Policy defines permission   
-- User can get permission directly or via group
+- Policy defines permission - what all you can do with you AWS account      
+- User can get permission directly or via group - good practice is giving policies(permissions) via group   
 - Roles are for delegation and are assumed
-- With assumed roles, we can talk to other services
+- With assumed roles, we can talk to other services   
+
+<img width="1139" height="258" alt="image" src="https://github.com/user-attachments/assets/dc0a4b66-4c07-4d90-ba97-e3c3a5dbe3c8" />   
+
+
+
 
 ### <ins>Root User</ins>
 - the email with which SignUp AWS
