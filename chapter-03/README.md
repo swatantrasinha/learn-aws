@@ -81,6 +81,30 @@ Attached to: Users/Roles/Groups/Resources (like S3 bucket policies)
 - AWS support 6 types of policies- see below screenshot      
 <img width="501" alt="image" src="https://github.com/user-attachments/assets/c70c2f6d-787c-4e25-bb45-9f4b5223a981" />
 
+<details>
+  <summary>Summary : AWS Policies</summary>
+  <p>
+    <img width="461" height="579" alt="image" src="https://github.com/user-attachments/assets/b0499b4a-4b9b-416e-b5be-8f9b6002bdb9" />
+    <hr />
+    <img width="463" height="587" alt="image" src="https://github.com/user-attachments/assets/dc7146e7-88b4-4f2f-b69f-d252cdb2986a" />
+    <hr />
+    <img width="494" height="472" alt="image" src="https://github.com/user-attachments/assets/ae355706-5897-4824-895d-aaa29e2384b6" />
+    <hr />
+    <img width="475" height="717" alt="image" src="https://github.com/user-attachments/assets/330e66e4-39c1-4296-80aa-da3f8d653873" />
+    <hr />
+    <img width="475" height="764" alt="image" src="https://github.com/user-attachments/assets/655c808a-f27b-45d9-8b05-b1b3dac8cdd7" />
+    <hr />
+    <img width="451" height="572" alt="image" src="https://github.com/user-attachments/assets/2b626df0-aa20-409e-8f12-ba7117fd707a" />
+    <hr />
+    <img width="559" height="594" alt="image" src="https://github.com/user-attachments/assets/c6e61e7f-e71f-4131-b15a-eaa27a2082d4" />
+    <hr />
+    <img width="812" height="752" alt="image" src="https://github.com/user-attachments/assets/b1ac4556-bdf1-4629-8fa1-92ffa812e2b9" />
+    <hr />
+    <img width="685" height="396" alt="image" src="https://github.com/user-attachments/assets/f5466c91-daad-4a10-aa85-db9d911df1dd" />
+    <hr />
+  </p>
+</details>
+
 ### <ins>Account Access</ins>
 There are two ways how we can give permission/access to an account   
 - AWS Console
