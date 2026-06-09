@@ -1,5 +1,6 @@
 ## Chapter 06: Introduction to Amazon EC2(Elastic Compute Cloud)         
 
+**AWS EC2(Amazon Elastic Compute Cloud)** : is a cloud service that provides resizable virtual servers called instances, which we can use to run applications.
 
 Link to main page : 
 [back-to-main](../README.md)
