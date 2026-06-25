@@ -114,6 +114,7 @@ Once we click on **Create Key Pair** button in the modal it will download pem fi
 
 - For Sections - **Network Setting** and **Configure Storage** -> whatever is populated let it be
 <img width="873" alt="image" src="https://github.com/user-attachments/assets/c86439c3-e84c-4c1d-9b0c-b67ab33d0430" />
+
 <ins>Note</ins> **Ensure Auto-assign public IP** is **enabled** 
 
 ## Advanced details
