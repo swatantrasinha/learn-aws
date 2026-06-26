@@ -184,6 +184,7 @@ if we copy the ip and paste in new tab - we should be able to see the HTML
 <ins>Note:</ins> I am doing in windows machone and when i copy-paste the IP I am able to see as expected:   
 <img width="627" height="167" alt="image" src="https://github.com/user-attachments/assets/ca48bacb-5873-49db-8874-b41e5cd3b349" />   
 
+<ins>Note:</ins> In address bar, before the ip address there may be **https://**, so we may need to change it to  **http://**   
 
 **Security Groups:**   
 Network firewall rules that control inbound and outbound traffic for instances.   
@@ -193,20 +194,18 @@ tab **Security**
 Click on link for Security Group   
 <img width="827" alt="image" src="https://github.com/user-attachments/assets/89aa277b-c849-43aa-8f7a-8c6ec0c8665c" />   
 In Inbound rules, Port Range 22 and 80 would be there
-If its not there (like in my case) then click on Edit Inbound rules -> Add rule   
+If its not there then click on Edit Inbound rules -> Add rule   
   
 - type: HTTP
 - protocol: TCP
 - port range: 80
 - source : Anywhere-IPv4 and 0.0.0.0/0 will come by itself let it be
   
-  Click on **Save Rules**
+  Click on **Save Rules**   
+  
+**Note:** In my case its alreadt there (Port Range 22 and 80 already present) so above step is not needed   
 
 Now if we go back to the public IP of instance and copy paste in new tab it will show   
-<img width="572" alt="image" src="https://github.com/user-attachments/assets/15b2e2d5-a90a-4f4e-9bf4-e8100d91ad5c" />
-
-<ins>Note:</ins> In address bar, before the ip address there may be **https://**, so we may need to change it to  **http://**
-   
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/6266c531-eaa2-4323-a8ae-e430526941f5" />   
 
