@@ -193,19 +193,20 @@ tab **Security**
 
 Click on link for Security Group   
 <img width="827" alt="image" src="https://github.com/user-attachments/assets/89aa277b-c849-43aa-8f7a-8c6ec0c8665c" />   
-In Inbound rules, Port Range 22 and 80 would be there
-If its not there then click on Edit Inbound rules -> Add rule   
+In Inbound rules, Port Range 22 and 80 would be there. If its not there then steps to add rule is :   
+
+Click on Edit Inbound rules -> Add rule   
   
 - type: HTTP
 - protocol: TCP
 - port range: 80
-- source : Anywhere-IPv4 and 0.0.0.0/0 will come by itself let it be
-  
-  Click on **Save Rules**   
-  
-**Note:** In my case its alreadt there (Port Range 22 and 80 already present) so above step is not needed   
+- source : Anywhere-IPv4 and 0.0.0.0/0 will come by itself let it be   
 
-Now if we go back to the public IP of instance and copy paste in new tab it will show   
+Click on **Save Rules**   
+  
+**Note:** In my case its already there (Port Range 22 and 80 already present) so above step is not needed   
+
+
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/6266c531-eaa2-4323-a8ae-e430526941f5" />   
 
