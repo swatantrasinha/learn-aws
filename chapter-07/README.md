@@ -107,6 +107,10 @@ Some of the important terminology for EC2 are :
 
 ## Steps to create AWS EC2 instance   
 
+Note: EC2 service is region specific. Now we are going to create EC2 instance in region United States(N.Virginia) but is we switch to different region say Stockholm, 
+then the created EC2 instance won't be visible in other region.  
+
+
 In IAM, search for EC2 -> click on **Launch Instance**   
 - number of instance --> 1   
 - give name --> **mywebserver**   
