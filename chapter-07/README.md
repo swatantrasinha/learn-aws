@@ -249,7 +249,7 @@ Open Terminl -> navigate to pem file and give **chmod command** command to chang
 
 
 
-and after this give the command in example (highlighted in green) 
+and after this give the command in example (highlighted in yellow) 
 
 > [!CAUTION]
 > This should have have connected me to instance but for mac its timed out error. See screenshot below:   
