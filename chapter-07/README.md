@@ -90,14 +90,22 @@ but I am not able to find it while doing practical. So not able to launch instan
 ---
 
 For this problem lets follow some other course for EC2 instance creation:   
-[AWS in ONE VIDEO](https://www.youtube.com/watch?v=N4sJj-SxX00&t=2368s) --> forward to **1:20:00** and follow:      
+[AWS in ONE VIDEO](https://www.youtube.com/watch?v=N4sJj-SxX00&t=2368s) --> forward to **1:20:00** and follow:   
+
 <img width="970" alt="image" src="https://github.com/user-attachments/assets/7724c0d8-02e7-4866-a2b6-1de8a5d535fa" />   
 
 <img width="936" alt="image" src="https://github.com/user-attachments/assets/b2058101-1cea-41c8-8db3-7b38c9693bda" />
 
+We can configure several options in the EC2 instance like below:   
+<img width="1716" height="1026" alt="image" src="https://github.com/user-attachments/assets/5581418d-1b98-4e89-b91d-0c0d5c054b06" />
+
+Some of the important terminology for EC2 are :    
 
 <img width="1070" alt="image" src="https://github.com/user-attachments/assets/ff5db860-0509-43ed-8608-533cd0ee20fd" />   
 
+<img width="2186" height="886" alt="image" src="https://github.com/user-attachments/assets/48e2c4fb-86fe-4b3f-9e1c-55092675850c" />   
+
+## Steps to create AWS EC2 instance   
 
 In IAM, search for EC2 -> click on **Launch Instance**   
 - number of instance --> 1   
