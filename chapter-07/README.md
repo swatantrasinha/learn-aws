@@ -331,7 +331,11 @@ and after this give the command in example (highlighted in yellow)
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/8cb5d1b6-286a-4594-8cad-e7915fdaa966" />   
 
 - browser and select the .pem file and then click on **Save Private File** button   
-- save it with name say **myWebserver_putty-key**   
+- save it with name say **myWebserver_putty-key**
+
+ <img width="451" height="355" alt="image" src="https://github.com/user-attachments/assets/566d8f14-abdd-4a3a-b126-677dc713e6e7" />   
+ 
+
 -  now open **PuTTY** (not PuTTYgen)   
 -  we need IP address so we will get it from here - **EC2 Instance Connect** Tab which is before **SSH client** tab   
   <img width="806" alt="image" src="https://github.com/user-attachments/assets/fd377e5b-34ae-4bdf-9e7f-50af99738965" />   
