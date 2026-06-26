@@ -128,6 +128,8 @@ Once we click on **Create Key Pair** button in the modal it will download pem fi
 
 - For Sections - **Network Setting** and **Configure Storage** -> whatever is populated let it be
 - Additionally - click on Checkbox for - **Allow HTTP traffic from internet**
+- <ins>Note</ins> **Ensure Auto-assign public IP** is **enabled**
+  
 <img width="603" height="347" alt="image" src="https://github.com/user-attachments/assets/0b90e360-8c4b-4088-8e95-4af48beb2851" />
 
 
