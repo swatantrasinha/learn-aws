@@ -113,9 +113,10 @@ Click on **Create New Key Pair**
 Once we click on **Create Key Pair** button in the modal it will download pem file, save it in computer   
 
 - For Sections - **Network Setting** and **Configure Storage** -> whatever is populated let it be
-<img width="873" alt="image" src="https://github.com/user-attachments/assets/c86439c3-e84c-4c1d-9b0c-b67ab33d0430" />
+- Additionally - click on Checkbox for - **Allow HTTP traffic from internet**
+<img width="603" height="347" alt="image" src="https://github.com/user-attachments/assets/0b90e360-8c4b-4088-8e95-4af48beb2851" />
 
-<ins>Note</ins> **Ensure Auto-assign public IP** is **enabled** 
+
 
 ## Advanced details
 This is optional. Here we are creating a server, if we want that some task will also be there on server when its created then we can use **User Data** in this section.   
