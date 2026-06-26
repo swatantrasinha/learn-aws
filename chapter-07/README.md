@@ -115,7 +115,9 @@ In IAM, search for EC2 -> click on **Launch Instance**
 - number of instance --> 1   
 - give name --> **mywebserver**   
 - Amazon Machine Image --> Amazon Linux is selected (let it be)       
-- Architecture --> 64-bit(x86) would be selected- let it be   
+- Architecture --> 64-bit(x86) would be selected- let it be
+- Instance Type - t2.micro or t3.micro whatever is selcted let it be (we just need to ensure its free-tier eligible is mentioned thats it)
+
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/4c629bc5-291b-4a54-bc3b-debd35de1c84" />
 
 - Next is key-pair, since VM is in cloud and not physically available to us so we need this key-pair to access it.   
