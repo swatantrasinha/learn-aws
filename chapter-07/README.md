@@ -130,6 +130,7 @@ Once we click on **Create Key Pair** button in the modal it will download pem fi
 - Additionally - click on Checkbox for - **Allow HTTP traffic from internet**
 <img width="603" height="347" alt="image" src="https://github.com/user-attachments/assets/0b90e360-8c4b-4088-8e95-4af48beb2851" />
 
+<img width="628" height="299" alt="image" src="https://github.com/user-attachments/assets/2d82e6d9-1bcd-4d1d-bda5-8408175c58e4" />
 
 
 ## Advanced details
