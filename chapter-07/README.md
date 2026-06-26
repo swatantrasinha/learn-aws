@@ -223,25 +223,26 @@ In the Next Page with title **Connect to instance**, in the tabs --> **EC2 Insta
 we will also see **SSH client** (highlighted below) later   
 
 ### 1. EC2 Instance Connect (Browser-based)   
-✅ What it is
-A web-based SSH connection directly from AWS console (no setup needed on your machine).
-✅ How it works
+✅ What it is   
+A web-based SSH connection directly from AWS console (no setup needed on your machine).   
 
-Runs inside your browser
-AWS temporarily pushes an SSH key to your instance
-Opens a terminal session instantly
+✅ How it works   
 
-✅ Key characteristics
+Runs inside your browser   
+AWS temporarily pushes an SSH key to your instance   
+Opens a terminal session instantly   
 
-No need to download .pem file or configure SSH
-Uses IAM permissions + instance config
-Quick and easy for testing/debugging
+✅ Key characteristics   
 
-✅ When to use
+No need to download .pem file or configure SSH   
+Uses IAM permissions + instance config   
+Quick and easy for testing/debugging   
 
-✅ You want fast access
-✅ You’re just experimenting / learning
-✅ You don’t want to deal with SSH setup
+✅ When to use   
+
+✅ You want fast access   
+✅ You’re just experimenting / learning   
+✅ You don’t want to deal with SSH setup   
 
 
 Note : there would be some username **ec2-user** - let it be  
