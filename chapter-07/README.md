@@ -181,7 +181,9 @@ To get more information about instance we can click on the instance id and it wi
 <img width="1313" alt="image" src="https://github.com/user-attachments/assets/b49e2611-607b-4566-b13d-7a757e074b68" />   
 
 if we copy the ip and paste in new tab - we should be able to see the HTML   
-<ins>Note:</ins> For me when i copy-paste the IP its showing  - This site can’t be reached   
+<ins>Note:</ins> I am doing in windows machone and when i copy-paste the IP I am able to see as expected:   
+<img width="627" height="167" alt="image" src="https://github.com/user-attachments/assets/ca48bacb-5873-49db-8874-b41e5cd3b349" />   
+
 
 **Security Groups:**   
 Network firewall rules that control inbound and outbound traffic for instances.   
