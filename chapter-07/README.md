@@ -130,6 +130,7 @@ Once we click on **Create Key Pair** button in the modal it will download pem fi
 - Additionally - click on Checkbox for - **Allow HTTP traffic from internet**
 <img width="603" height="347" alt="image" src="https://github.com/user-attachments/assets/0b90e360-8c4b-4088-8e95-4af48beb2851" />
 
+
 <img width="628" height="299" alt="image" src="https://github.com/user-attachments/assets/2d82e6d9-1bcd-4d1d-bda5-8408175c58e4" />
 
 
@@ -159,7 +160,10 @@ echo "<html><h1>Welcome to Apache Web Server on Amazon Linux</h1></html>">/var/w
 
 ```
 
-- Click on **Launch Instance** button   
+<img width="533" height="298" alt="image" src="https://github.com/user-attachments/assets/2c55a417-cf18-4826-9adb-229a83879e84" />   
+
+
+- Click on **Launch Instance** button (on right side of the page)   
 
 <img width="1778" alt="image" src="https://github.com/user-attachments/assets/7613d279-14b7-4ecb-a88c-8c656e6f8259" />    
 
