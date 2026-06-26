@@ -213,14 +213,36 @@ Click on **Save Rules**
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/2d2a5bd8-b13a-4305-ba33-535f73b70567" />   
 
 ----
-How to SSH into EC2 instance ?   
-SSH allows you to control/access a remote machine   
+## Ways to connect to EC2 instance  
+
 Go to EC2 dashboard --> select instance --> click on **Connect**   
  
-<img width="946" alt="image" src="https://github.com/user-attachments/assets/b6fbff4c-c8c7-4f9b-bd54-69acff53bb0d" />
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/b6fbff4c-c8c7-4f9b-bd54-69acff53bb0d" />   
 
 In the Next Page with title **Connect to instance**, in the tabs --> **EC2 Instance Connect** would be selected (let it be)
 we will also see **SSH client** (highlighted below) later   
+
+### 1. EC2 Instance Connect (Browser-based)   
+✅ What it is
+A web-based SSH connection directly from AWS console (no setup needed on your machine).
+✅ How it works
+
+Runs inside your browser
+AWS temporarily pushes an SSH key to your instance
+Opens a terminal session instantly
+
+✅ Key characteristics
+
+No need to download .pem file or configure SSH
+Uses IAM permissions + instance config
+Quick and easy for testing/debugging
+
+✅ When to use
+
+✅ You want fast access
+✅ You’re just experimenting / learning
+✅ You don’t want to deal with SSH setup
+
 
 Note : there would be some username **ec2-user** - let it be  
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/1e2f5e9f-3807-43e0-849a-7fbd1f04b2ad" />    
@@ -251,7 +273,26 @@ To get further details give command
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/e050cf69-b557-4840-9715-7cb193b6af54" />   
 
 ---
-# SSH Client   
+### 2.SSH Client   
+
+How to SSH into EC2 instance ?   
+SSH allows you to control/access a remote machine   
+✅ What it is
+Traditional SSH using your own terminal (Mac/Linux/Windows).   
+
+✅ Key characteristics
+
+- Uses your downloaded .pem key file
+- Full control over SSH config
+- Works with scripts, automation, tools
+
+✅ When to use   
+✅ Real-world usage (production/dev environments)
+✅ You want stable and repeatable access
+✅ You need file transfer (SCP/SFTP)
+✅ You’re doing DevOps work
+
+
 
 We will now explore other option to connect via SSH Client   
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/d090cca5-fc84-4bf3-b9e8-2ebef99966f7" />   
