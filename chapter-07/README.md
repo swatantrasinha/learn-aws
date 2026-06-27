@@ -205,7 +205,7 @@ Click on Edit Inbound rules -> Add rule
 
 Click on **Save Rules**   
   
-**Note:** In my case its already there (Port Range 22 and 80 already present) so above step to **Edit Inbound Rule** is not needed   
+**Note:** In my case for both windows and mac - its already there (Port Range 22 and 80 already present) so above step to **Edit Inbound Rule** is not needed   
 
 
 
