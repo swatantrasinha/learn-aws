@@ -181,8 +181,9 @@ To get more information about instance we can click on the instance id and it wi
 <img width="1313" alt="image" src="https://github.com/user-attachments/assets/b49e2611-607b-4566-b13d-7a757e074b68" />   
 
 if we copy the ip and paste in new tab - we should be able to see the HTML   
-<ins>Note:</ins> I am doing in windows machone and when i copy-paste the IP I am able to see as expected:   
+<ins>Note:</ins> I am doing in windows machine and when i copy-paste the IP I am able to see as expected:   
 <img width="627" height="167" alt="image" src="https://github.com/user-attachments/assets/ca48bacb-5873-49db-8874-b41e5cd3b349" />   
+I have checked on mac as well and able to see as expected above.
 
 <ins>Note:</ins> In address bar, before the ip address there may be **https://**, so we may need to change it to  **http://**   
 
