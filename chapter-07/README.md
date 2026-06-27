@@ -205,7 +205,19 @@ Click on Edit Inbound rules -> Add rule
 
 Click on **Save Rules**   
   
-**Note:** In my case for both windows and mac - its already there (Port Range 22 and 80 already present) so above step to **Edit Inbound Rule** is not needed   
+**Note:** 
+1. In my case for both windows and mac - its already there (Port Range 22 and 80 already present) so above step to **Edit Inbound Rule** is not needed.         
+
+2. We saw Security Group above for Inbound/Outbound rules. We can also create our own custom Security Group and attach to new EC2 instance while creating it.
+ The steps for creating a "New Security Group" is  below :   
+ 
+a) In left Nav: network 7 Security --> Security Groups   
+<img width="292" height="718" alt="image" src="https://github.com/user-attachments/assets/60e9619c-fc59-4f3f-a575-236ab5221877" />   
+
+b) Click on "Create Security group"
+<img width="1514" height="325" alt="image" src="https://github.com/user-attachments/assets/76c660c3-5b81-418f-912b-cc35a5e54d57" />   
+
+c) We are not createing New Security Group now(out of scope for this tutorial) but just remember the above 2 steps    
 
 
 
