@@ -109,6 +109,10 @@ Some of the important terminology for EC2 are :
 
 Note: EC2 service is region specific. Now we are going to create EC2 instance in region United States(N.Virginia) but is we switch to different region say Stockholm, 
 then the created EC2 instance won't be visible in other region.  
+<details>
+ <summary>Below are steps: </summary>
+ <p>
+  
 
 
 In IAM, search for EC2 -> click on **Launch Instance**   
@@ -224,6 +228,9 @@ c) We are not createing New Security Group now(out of scope for this tutorial) b
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/6266c531-eaa2-4323-a8ae-e430526941f5" />   
 
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/2d2a5bd8-b13a-4305-ba33-535f73b70567" />   
+
+ </p>
+</details>
 
 ----
 ## Ways to connect to EC2 instance  
