@@ -29,7 +29,7 @@ If we click on Advance, it will show **EBS Volumne**
 
 3. Region and AZ specific - Lets say Region Mumbai has 3 AZs - A,B and C. If we create EBS on AZ 'A', and create EC2 instance on AZ 'B' then the EC2 instance can't use the EBS.
 
-4. Build-in Redundancy
+4. Build-in Redundancy : EBS volumes are automatically replicated within the same Availability Zone(AZ) to prevent data loss due to hardware faiure.
 
 5. Different Volume Types   
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/e0615075-bf66-4cc3-be06-96c22f8cb9ef" />
